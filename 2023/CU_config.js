@@ -14,7 +14,7 @@ var config_data = `
     { "name": "Event",
       "code": "e",
       "type": "event",
-      "defaultValue": "2023 FIM Livionia District",
+      "defaultValue": "2023 FIM Livonia District",
       "required": "true",
       "disabled": "true"
     },
