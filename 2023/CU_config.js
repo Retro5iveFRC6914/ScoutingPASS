@@ -14,7 +14,7 @@ var config_data = `
     { "name": "Event",
       "code": "e",
       "type": "event",
-      "defaultValue": "2023fimlivonia",
+      "defaultValue": "2023mili",
       "required": "true",
       "disabled": "true"
     },
